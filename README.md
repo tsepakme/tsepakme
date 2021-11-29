@@ -1,4 +1,4 @@
-# Hello! My name is Kate!
+# Hello! I'm Kate!
 <div>
 <p>
 👾 Full-Stack JS Developer<br>
