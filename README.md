@@ -62,4 +62,4 @@
 
 ## My cat
 
-<a name="cat" href="cat"> <img src="./img/umka_photo.jpeg" width="450" height="370"/></a>
+<a name="cat" href="cat"> <img src="./img/umka_photo.jpeg" width="450" height="390"/></a>
