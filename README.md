@@ -1,4 +1,4 @@
-# Hello! I'm Kate!
+# Hello! I'm Ayusha!
 <div>
 <p>
 👾 Full-Stack JS Developer<br>
@@ -8,9 +8,8 @@
   
 ## There are some links to contact me:
   
-<a name="telegram" href="https://t.me/ShabalinaEkaterina"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
-<a name="watsapp" href="https://wa.me/89819519843"> <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/></a>
-<a name="gmail" href="mailto:letterforkatherine@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
+<a name="telegram" href="https://t.me/tsepakme"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
+<a name="gmail" href="mailto:mr.mikhaylov.job@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a><br>
    
    ## CV 
    <span>EN:</span>
@@ -60,6 +59,6 @@
 <span>Russian (Native) <img src="https://img.icons8.com/emoji/48/000000/russia-emoji.png"/></span>&nbsp;&nbsp;&nbsp;&nbsp;
 <span>English (Advanced, C1) <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/></span>
 
-## My cat
+<!-- ## My cat
 
-<a name="cat" href="cat"> <img src="./img/umka_photo.jpeg" width="450" height="390"/></a>
+<a name="cat" href="cat"> <img src="./img/umka_photo.jpeg" width="450" height="390"/></a> -->
