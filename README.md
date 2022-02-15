@@ -57,7 +57,7 @@
 ## Languages:
 
 <span>Russian (Native) <img src="https://img.icons8.com/emoji/48/000000/russia-emoji.png"/></span>&nbsp;&nbsp;&nbsp;&nbsp;
-<span>English (Advanced, C1) <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/></span>
+<span>English (Upper-Intermediate, B2) <img src="https://img.icons8.com/emoji/48/000000/united-kingdom-emoji.png"/></span>
 
 <!-- ## My cat
 
