@@ -3,7 +3,7 @@
 <p>
 👾 Full-Stack JS Developer<br>
 👀 Interested in web development, cats and travel<br>
-📫 Contact: letterforkatherine@gmail.com<br>
+📫 Contact: mr.mikhaylov.job@gmail.com<br>
 </p>
   
 ## There are some links to contact me:
