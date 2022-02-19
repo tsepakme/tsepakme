@@ -14,8 +14,8 @@
    ## CV 
    <span>EN:</span>
    <a name="cv" href="https://www.canva.com/"/></a><br>
-    <span>RU:</span>
-   <a name="cv" href="https://www.canva.com/"/></a><br>
+    <span>CV on HH.RU:</span>
+   <a name="cv" href="https://spb.hh.ru/resume/267113d4ff06ab8efd0039ed1f353541397a69"/></a><br>
 </div>
 
 ## 🛠 My Tech Stack:
