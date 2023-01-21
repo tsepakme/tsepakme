@@ -2,6 +2,7 @@
 <div>
 <p>
 👾 Full-Stack JS Developer<br>
+  OPEN TO WORK<br>
 👀 Interested in web development, cats and travel<br>
 📫 Contact: mr.mikhaylov.job@gmail.com<br>
 </p>
