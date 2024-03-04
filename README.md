@@ -14,11 +14,11 @@
    
    ## CV 
    <span>EN:</span>
-   <a name="cv" href="https://www.canva.com/"/></a><br>
-   <p>https://www.linkedin.com/in/ayusha-mikhaylov/?locale=en_US</p>
-    <span>CV on HH.RU:</span>
-   <a name="cv" href="https://spb.hh.ru/resume/267113d4ff06ab8efd0039ed1f353541397a69"/></a><br>
-   <p>https://spb.hh.ru/resume/267113d4ff06ab8efd0039ed1f353541397a69</p>
+   //<a name="cv" href="https://www.canva.com/"/></a><br>
+   //<p>https://www.linkedin.com/in/ayusha-mikhaylov/?locale=en_US</p>
+   // <span>CV on HH.RU:</span>
+   //<a name="cv" href="https://spb.hh.ru/resume/267113d4ff06ab8efd0039ed1f353541397a69"/></a><br>
+   //<p>https://spb.hh.ru/resume/267113d4ff06ab8efd0039ed1f353541397a69</p>
 </div>
 
 ## 🛠 My Tech Stack:
