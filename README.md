@@ -1,4 +1,4 @@
-# Hello! I'm Ayusha!
+# Hello! I'm Aiusha!
 <div>
 <p>
 👾 Frontend JS|TS Developer<br>
