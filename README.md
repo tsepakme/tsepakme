@@ -15,7 +15,7 @@ I'm a passionate **Frontend Developer** with experience in **JavaScript**, **Typ
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 - I write articles about TypeScript and web development [on my blog](https://www.tsepakme.com/blog)
-- Based in: Tbilisi, Georia
+- Based in: Tbilisi, Georgia
 
 ## How to reach me
 
